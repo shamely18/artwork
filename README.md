@@ -1,2 +1,2 @@
-# artwork
-Personal Artwork
+# Portfolio
+Personal Portfolio
